@@ -24,5 +24,5 @@ http安全通讯：jsonwebtoken
 
 ![](.\src\assets\home.png)
 
-[^注：被遮住的是 jwt.verify]: 
+注：被遮住的是 jwt.verify
 
